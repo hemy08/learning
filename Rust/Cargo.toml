@@ -1,0 +1,8 @@
+[package]
+
+name = "learn_rust"
+version = "0.0.2"
+authors = [ "junwei.zhao@huawei.com" ]
+
+[dependencies]
+rand="0.3.0"

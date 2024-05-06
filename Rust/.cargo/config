@@ -1,0 +1,6 @@
+[net]
+git-fetch-with-cli = true
+[source.crates-io]
+replace-with = 'mirror'
+[source.mirror]
+registry ="https://mirrors.tools.huawei.com/rust/crates.io-index/"
