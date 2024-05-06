@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.27)
-project(leetcode_c C)
+project(LEARNING_C C)
 
 set(CMAKE_C_STANDARD 11)
 
@@ -13,7 +13,7 @@ set(HEAD_FILES
         ${PROJECT_SOURCE_DIR}/include
         ${PROJECT_SOURCE_DIR}/include/uthash
         src/public
-        src/question
+        src/leetcode
         src/include
         src/learning
         testcase
@@ -23,7 +23,7 @@ INCLUDE_DIRECTORIES(
         ${PROJECT_SOURCE_DIR}/include
         ${PROJECT_SOURCE_DIR}/include/uthash
         src/public
-        src/question
+        src/leetcode
         src/include
         src/learning
         testcase
