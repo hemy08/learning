@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.26)
 project(LEARNING_CPP)
 
 SET(CMAKE_CXX_STANDARD 17)
@@ -40,6 +40,7 @@ SET(HEAD_FILES
         src/exercise
         src/learning
         src/learning/src
+        src/leetcode/001/136-singleNumber.cpp
 )
 
 INCLUDE_DIRECTORIES(

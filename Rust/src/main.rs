@@ -1,6 +1,7 @@
 mod example;
 mod debug;
 
+mod leetcode;
 
 pub use self::example::guess_game::*;
 pub use self::example::hello_world::*;
