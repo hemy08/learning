@@ -84,3 +84,46 @@
 [2024-09-20 11:09:11] -------- End TestCase_StorageDuration_ThreadLocal
 [2024-09-20 11:09:11] ================ End TestCase_StorageDuration ================
 [2024-09-20 11:09:11] Learning_TestCase_Main End!
+[2025-05-18 12:48:41] Learning_TestCase_Main Begin!
+[2025-05-18 12:48:41] ================ Begin TestCase_StorageDuration ================
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_Auto
+[2025-05-18 12:48:41] + Type of a is: int
+[2025-05-18 12:48:41] + Type of f is: double
+[2025-05-18 12:48:41] + Type of s is: const char*
+[2025-05-18 12:48:41] + Type of z is: int*
+[2025-05-18 12:48:41] + Type of d is: char*
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_Auto
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_Register
+[2025-05-18 12:48:41] + ISO C++17 does not allow 'register' storage class specifier
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_Register
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_Static
+[2025-05-18 12:48:41] + This function has been called 1 times.
+[2025-05-18 12:48:41] + This function has been called 2 times.
+[2025-05-18 12:48:41] + This function has been called 3 times.
+[2025-05-18 12:48:41] + This function has been called 4 times.
+[2025-05-18 12:48:41] + This function has been called 5 times.
+[2025-05-18 12:48:41] + This function has been called 6 times.
+[2025-05-18 12:48:41] + This function has been called 7 times.
+[2025-05-18 12:48:41] + This function has been called 8 times.
+[2025-05-18 12:48:41] + This function has been called 9 times.
+[2025-05-18 12:48:41] + This function has been called 10 times.
+[2025-05-18 12:48:41] ++++++++++++++++++++++++++++++++++++++++++++++++
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 1
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 2
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 3
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 4
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 5
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 6
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 7
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 8
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 9
+[2025-05-18 12:48:41] + StaticCLassMember::count value is 10
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_Static
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_Extern
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_Extern
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_Mutable
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_Mutable
+[2025-05-18 12:48:41] -------- Begin TestCase_StorageDuration_ThreadLocal
+[2025-05-18 12:48:41] -------- End TestCase_StorageDuration_ThreadLocal
+[2025-05-18 12:48:41] ================ End TestCase_StorageDuration ================
+[2025-05-18 12:48:41] Learning_TestCase_Main End!
